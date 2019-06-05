@@ -1,0 +1,13 @@
+{
+    "name": "meysampg/eql",
+    "description": "SQL into DSL (Write SQL, Search on ElasticSearch)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Meysam GanJi",
+            "email": "p.g.meysam@gmail.com"
+        }
+    ],
+    "require": {}
+}
