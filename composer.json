@@ -9,5 +9,10 @@
             "email": "p.g.meysam@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Meysampg\\Eql\\": "src/"
+        }
+    }
 }
