@@ -17,7 +17,7 @@ E::::::::::::::::::::E QQ::::::::::::::Q L::::::::::::::::::::::L
 E::::::::::::::::::::E   QQ:::::::::::Q  L::::::::::::::::::::::L     
 EEEEEEEEEEEEEEEEEEEEEE     QQQQQQQQ::::QQLLLLLLLLLLLLLLLLLLLLLLLL     
                                    Q:::::Q                            
-                                    QQQQQQ                                                                   
+                                    QQQQQQ
 ```
 
 [![Build Status](https://travis-ci.org/meysampg/eql.svg?branch=master)](https://travis-ci.org/meysampg/eql)
