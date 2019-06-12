@@ -29,7 +29,7 @@ interface DSLGeneratorInterface
      *
      * @param ParserInterface $parser
      *
-     * @return mixed
+     * @return DSLGeneratorInterface
      */
     public function setParser(ParserInterface $parser): DSLGeneratorInterface;
 
