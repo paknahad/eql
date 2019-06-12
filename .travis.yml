@@ -1,0 +1,24 @@
+language: php
+
+php:
+  - 7.1
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+
+before_install:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+
+before_script:
+  - ./cc-test-reporter before-build
+
+install:
+  - composer install
+
+script:
+  - vendor/bin/phpunit --coverage-clover clover.xml
+
+after_script:
+  - ./cc-test-reporter after-build -t clover --exit-code $TRAVIS_TEST_RESULT

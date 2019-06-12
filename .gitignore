@@ -1,1 +1,4 @@
 /vendor/
+
+# Intellij configurations folder
+/.idea

@@ -20,6 +20,10 @@ EEEEEEEEEEEEEEEEEEEEEE     QQQQQQQQ::::QQLLLLLLLLLLLLLLLLLLLLLLLL
                                     QQQQQQ                                                                   
 ```
 
+[![Build Status](https://travis-ci.org/meysampg/eql.svg?branch=master)](https://travis-ci.org/meysampg/eql)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c3377ea017b632d00320/maintainability)](https://codeclimate.com/github/meysampg/eql/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c3377ea017b632d00320/test_coverage)](https://codeclimate.com/github/meysampg/eql/test_coverage)
+
 Overview
 -----------
 
