@@ -1,5 +1,5 @@
 {
-    "name": "meysampg/eql",
+    "name": "paknahad/eql",
     "description": "SQL into DSL (Write SQL, Search on ElasticSearch)",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Meysam GanJi",
             "email": "p.g.meysam@gmail.com"
+        },
+        {
+            "name": "Hamid Paknahad",
+            "email": "hp.paknahad@gmail.com"
         }
     ],
     "require": {},
